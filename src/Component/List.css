@@ -1,0 +1,11 @@
+#taskitem {
+  display: flex;
+  margin: auto;
+  width: 70%;
+  justify-content: space-evenly;
+}
+
+button {
+  width: 105px;
+  margin: 25px 0px;
+}
